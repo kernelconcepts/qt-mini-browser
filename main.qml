@@ -29,12 +29,12 @@ ApplicationWindow {
         anchors.leftMargin: 16
         anchors.rightMargin: 16
         height: 32
-        leftPadding: 8
+        /*leftPadding: 8
         rightPadding: 8
         topPadding: 8
-        bottomPadding: 8
+        bottomPadding: 8*/
         horizontalAlignment: TextField.AlignHCenter
-        color: "white"
+        //color: "white"
         font.bold: true;
         /*background: Item {
             Rectangle {
